@@ -1,8 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd9a7aeb.css",
-    "main.js": "/static/js/main.d6b8b0ca.js",
+    "main.css": "/static/css/main.59d96ce0.css",
+    "main.js": "/static/js/main.74008977.js",
     "static/js/453.d73b0aaa.chunk.js": "/static/js/453.d73b0aaa.chunk.js",
+    "static/media/AI ML A-Z Notes 1 - Aravindh A E.pdf": "/static/media/AI ML A-Z Notes 1 - Aravindh A E.5a4a74bf54a8f0d1ad29.pdf",
+    "static/media/AI ML A-Z Notes 3 - Aravindh A E.pdf": "/static/media/AI ML A-Z Notes 3 - Aravindh A E.d5aa9a0083986cfef62b.pdf",
+    "static/media/AI ML A-Z Notes 2 - Aravindh A E.pdf": "/static/media/AI ML A-Z Notes 2 - Aravindh A E.74acbd1b85948e368912.pdf",
     "static/media/aearavindh-transparent.png": "/static/media/aearavindh-transparent.ca1bfa9aca3440a7bc25.png",
     "static/media/amazon-clone.png": "/static/media/amazon-clone.904a770214cb0421fadf.png",
     "static/media/facebook-clone.png": "/static/media/facebook-clone.7c63f262f185c3a0f0fa.png",
@@ -11,12 +14,12 @@
     "static/media/sorting-visualizer.png": "/static/media/sorting-visualizer.306e2e1ec111d380779d.png",
     "static/media/tic-tac-toe.png": "/static/media/tic-tac-toe.a311d04c686a42270609.png",
     "index.html": "/index.html",
-    "main.fd9a7aeb.css.map": "/static/css/main.fd9a7aeb.css.map",
-    "main.d6b8b0ca.js.map": "/static/js/main.d6b8b0ca.js.map",
+    "main.59d96ce0.css.map": "/static/css/main.59d96ce0.css.map",
+    "main.74008977.js.map": "/static/js/main.74008977.js.map",
     "453.d73b0aaa.chunk.js.map": "/static/js/453.d73b0aaa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd9a7aeb.css",
-    "static/js/main.d6b8b0ca.js"
+    "static/css/main.59d96ce0.css",
+    "static/js/main.74008977.js"
   ]
 }
