@@ -7,6 +7,7 @@ import Languages from "./routes/Languages";
 import Education from "./routes/Education";
 import Employment from "./routes/Employment";
 import Projects from "./routes/Projects";
+import Notes from "./routes/Notes"
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
@@ -21,6 +22,7 @@ ReactDOM.render(
           <Route path="education" element={<Education />} />
           <Route path="employment" element={<Employment />} />
           <Route path="projects" element={<Projects />} />
+          <Route path="notes" element={<Notes />} />
           <Route
             path="*"
             element={

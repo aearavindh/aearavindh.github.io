@@ -7,6 +7,7 @@ import {
   School,
   Work,
   Workspaces,
+  Notes
 } from "@mui/icons-material";
 import { IconButton } from "@mui/material";
 import { NavLink, Outlet } from "react-router-dom";
@@ -67,6 +68,14 @@ function App() {
         >
           <Workspaces />
           <p>Projects</p>
+        </NavLink>
+        <NavLink
+          to="/Notes"
+          style={navLinkActiveStyles}
+          className="app__link"
+        >
+          <Notes />
+          <p>Notes</p>
         </NavLink>
       </nav>
       <div className="app__outlet">
